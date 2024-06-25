@@ -1,0 +1,34 @@
+[
+    {
+        "name" : "Odd/Even",
+        "description" : "Given a number , find whether it odd or even",
+        "points" : 10,
+        "solvedcount" : 3
+
+    },
+    {
+        "name" : "Prime Number",
+        "description" : "Given a number , find whether it is prime nu,mber",
+        "points" : 10,
+        "solvedcount" : 1
+    },
+    {
+        "name" : "Sort in ascending",
+        "description" : "Given a aray of number , sort array in ascending",
+        "points" : 10,
+        "solvedcount" : 2
+    },
+    {
+        "name" : "Palindrome",
+        "description" : "Given a number , reverse the number and check whether it is palindrome",
+        "points" : 10,
+        "solvedcount" : 0
+
+    },
+    {
+        "name" : "Pattern",
+        "description" : "Do a code for Triangle Pattern ",
+        "points" : 10,
+        "solvedcount" : 8
+    }
+]

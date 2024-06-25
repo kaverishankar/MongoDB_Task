@@ -1,0 +1,22 @@
+[
+    {
+        "title" : "Day 1 : HTML",
+        "date" : "2020-09-29",
+        "mentormail" : "sanjay123@gmail.com"
+    },
+    {
+        "title" : "Day 2 : CSS",
+        "date" : "2020-10-06",
+        "mentormail" : "sanjay123@gmail.com"
+    },
+    {
+        "title" : "Day 3 : ReactJS",
+        "date" : "2020-10-13",
+        "mentormail" : "sanjay123@gmail.com"
+    },
+    {
+        "title" : "Day 1 : MongoDB",
+        "date" : "2020-10-20",
+        "mentormail" : "sanjay123@gmail.com"
+    }
+]

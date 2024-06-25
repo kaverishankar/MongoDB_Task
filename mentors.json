@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Sanjay",
+        "email": "sanjay123@gmail.com",
+        "courses" : ["MEAN" , "MERN"]
+    },
+    {
+        "name": "Raja",
+        "email": "raja123@gmail.com",
+        "courses" : ["Data Science" , "Data Analyst"]
+    },
+    {
+        
+        "name": "Deva",
+        "email": "deva123@gmail.com",
+        "courses" : ["Cloud Computing"]
+    },
+    {
+        
+        "name": "Abdul",
+        "email": "abdul123@gmail.com",
+        "courses" : ["DevOps" , "Automation Testing"]
+    }
+]

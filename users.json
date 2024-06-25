@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Derick",
+        "email": "derick123@gmail.com",
+        "course": "MERN Stack",
+        "batch": "10001",
+        "mentor": {
+            "name": "Sanjay",
+            "email": "sanjay123@gmail.com"
+        }
+    },
+    {
+        "name": "Jeeva",
+        "email": "jeeva123@gmail.com",
+        "course": "MEAN Stack",
+        "batch": "10002",
+        "mentor": {
+            "name": "Sanjay",
+            "email": "sanjay123@gmail.com"
+        }
+    },
+    {
+        "name": "Vijay",
+        "email": "vijay123@gmail.com",
+        "course": "Data Science",
+        "batch": "10003",
+        "mentor": {
+            "name": "Raja",
+            "email": "raja123@gmail.com"
+        }
+    },
+    {
+        "name": "Shankar",
+        "email": "shankar123@gmail.com",
+        "course": "Cloud Computing",
+        "batch": "10004",
+        "mentor": {
+            "name": "Deva",
+            "email": "deva123@gmail.com"
+        }
+    }
+]

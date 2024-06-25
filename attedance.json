@@ -1,0 +1,18 @@
+[
+    {
+        "date" : "2020-09-29",
+        "isPresent" : true
+    },
+    {
+        "date" : "2020-10-06",
+        "isPresent" : true
+    },
+    {
+        "date" : "2020-10-13",
+        "isPresent" : true
+    },
+    {
+        "date" : "2020-10-20",
+        "isPresent" : false
+    }
+]

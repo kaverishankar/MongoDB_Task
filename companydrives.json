@@ -1,0 +1,27 @@
+[
+    {
+        "company" : "TCS",
+        "drivedate" : "2020-10-10",
+        "students" : ["vijay123@gmail.com","jeeva123@gmail.com"]
+    },
+    {
+        "company" : "CTS",
+        "drivedate" : "2020-10-20",
+        "students" : ["derick123@gmail.com"]
+    },
+    {
+        "company" : "Infosys",
+        "drivedate" : "2020-10-18",
+        "students" : ["vijay123@gmail.com","derick123@gmail.com"]
+    },
+    {
+        "company" : "Accenture",
+        "drivedate" : "2020-10-22",
+        "students" : ["shankar123@gmail.com","vijay123@gmail.com"]
+    },
+    {
+        "company" : "Wipro",
+        "drivedate" : "2020-10-28",
+        "students" : ["jeeva123@gmail.com","shankar123@gmail.com"]
+    }
+]

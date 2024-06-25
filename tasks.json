@@ -1,0 +1,28 @@
+[
+    {
+        "name" : "Day 1 HTML",
+        "task_date" : "2020-09-29",
+        "dueDate" : "2020-10-06",
+        "isSubmitted"  : true
+    },
+    {
+        "name" : "Day 2 CSS",
+        "task_date" : "2020-10-06",
+        "dueDate" : "2020-10-13",
+        "isSubmitted"  : true
+    },
+    {
+        "name" : "Day 3 ReactJS",
+        "task_date" : "2020-10-13",
+        "dueDate" : "2020-10-20",
+        "isSubmitted"  : true
+
+    },
+    {
+        "name" : "Day 4 MongoDB",
+        "task_date" : "2020-10-20",
+        "dueDate" : "2020-10-27",
+        "isSubmitted"  : false
+    }
+
+]
